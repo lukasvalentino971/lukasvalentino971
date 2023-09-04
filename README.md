@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-- My Social Media<p>
+### My Social Media<p>
 <a href="https://www.linkedin.com/in/lukas-valentino/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lukasvalentino971" />
 <a href="" target="blank"><img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white" alt="lukasvalentino971" /></a> 
 <a href="https://www.instagram.com/luk44ss__/" target="blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="lukasvalentino971" /></a>
