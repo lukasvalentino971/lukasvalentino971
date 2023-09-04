@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I'm Lukas👋
 
-<!--
-**lukasvalentino971/lukasvalentino971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at the State Polytechnic of Malang. Currently, I am learning the Dart programming language, which is focused on mobile development.
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### Github Statistic
 <p align="left">
