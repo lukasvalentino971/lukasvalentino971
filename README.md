@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mobile Development
 - 📫 How to reach me: 2141720032@student.polinema.ac.id
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Manchester City fan ⚽
+- ⚡ Fun fact: Manchester is BLUE ⚽
 
 
 ### Github Statistic
