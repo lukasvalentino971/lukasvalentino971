@@ -1,15 +1,15 @@
 ### Hi there I'm Lukas Valentino👋
 
-I am a student at the State Polytechnic of Malang. Currently, I am learning the Dart programming language, which is focused on mobile development.
+I am a student at the State Polytechnic of Malang. Currently, I am learning the web development technologies to build modern and scalable applications.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Politeknik Negeri Malang
-- 🌱 I’m currently learning Mobile Technology
-- 💬 Ask me about Mobile Development
-- 📫 How to reach me: 2141720032@student.polinema.ac.id
+- 🌱 I’m currently learning Web Development
+- 💬 Ask me about Web Development (Frontend & Backend)
+- 📫 How to reach me: lukasvalentino971@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Manchester is BLUE ⚽
+- ⚡ Fun fact: I enjoy turning coffee into clean and functional code
 
 
 ### Github Statistic
