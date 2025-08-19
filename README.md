@@ -4,7 +4,7 @@ I am a student at the State Polytechnic of Malang. Currently, I am learning the 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Politeknik Negeri Malang
+- 🔭 I graduated from the State Polytechnic of Malang.
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Web Development (Frontend & Backend)
 - 📫 How to reach me: lukasvalentino971@gmail.com
